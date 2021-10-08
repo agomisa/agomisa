@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Agostina Misaña.
+- 👋 Hi, I am Agostina Misaña.
 - 👀 I am a chemical engineer passionate about data analysis.
 - 🌱 I am currently studying a Master in Data exploration and knowledge management.
 - 💞️ I am looking to collaborate on projects to help find solutions to business challenges, using skills in both technology and chemical processes to find trends and manage data, making it a data-driven company.
