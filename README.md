@@ -2,9 +2,9 @@
 ## 💫About Me :
    👋 Hi, I am **Agostina Misaña**.
    
-   👀 I am a chemical engineer passionate about Data Science. 
+   👩🏽‍💻 I am a chemical engineer passionate about Data Science. 
    
-   🌱 I am currently studying a Master in Data exploration and knowledge management.
+   📊 I am currently studying a Master in Data exploration and knowledge management.
    
    ⭐ Always willing to learn.
    
