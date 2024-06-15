@@ -4,7 +4,7 @@
    
    👩🏽‍💻 I am a chemical engineer passionate about Data Science. 
    
-   📊 I am currently studying a Master in Data exploration and knowledge management.
+   📊 I have a Master in Data exploration and knowledge management.
    
    ⭐ Always willing to learn.
    
